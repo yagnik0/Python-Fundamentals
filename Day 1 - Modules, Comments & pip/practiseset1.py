@@ -6,7 +6,7 @@
 
 # import pyttsx3
 # engine = pyttsx3.init()
-# engine.say("jai bhootnath")
+# engine.say("Happy shivratri")
 # engine.runAndWait()
 
 # Q.3 :- Write a python program to print the contents of a directory using the os module. Search online for the function which does that.
