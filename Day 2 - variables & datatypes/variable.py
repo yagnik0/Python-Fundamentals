@@ -20,6 +20,7 @@ a → variable name (identifier)
 # 2.Floating point numbers
 # 3.Boolean
 # 4.None
+# 5.Strings
 
 # Operators in python :-
 

@@ -4,10 +4,10 @@
 
 # Q.2:- Install an external module and use it to perform an operation of your intrest.
 
-# import pyttsx3
-# engine = pyttsx3.init()
-# engine.say("Happy shivratri")
-# engine.runAndWait()
+import pyttsx3
+engine = pyttsx3.init()
+engine.say("Aradhya mehta")
+engine.runAndWait()
 
 # Q.3 :- Write a python program to print the contents of a directory using the os module. Search online for the function which does that.
 
