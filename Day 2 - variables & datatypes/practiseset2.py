@@ -13,13 +13,17 @@
 
 # divisor = int(input('Enter a number divisor:-'))
 
-# remainder = int(dividend / divisor)
+# remainder = int(dividend % divisor)
+
+# # we use modular oeparator in it :- %
 
 # print(remainder)
 
 # Q.3 :- Check the type of variable assigned using input () function.
 
-# type(input("Hello"))
+# a = input("Enter the value of a :- ")
+
+# print(type(a))
 
 # Q.4 :- Use comparison operator to find out whether ‘a’ given variable a is greater than ‘b’ or not. Take a = 34 and b = 80
 
@@ -27,7 +31,7 @@
 
 # b = 80
 
-# result = a >= b
+# result = a > b
 
 # print(result)
 
@@ -44,10 +48,10 @@
 
 # Q.6 :-  Write a python program to calculate the square of a number entered by the user
 
-square = int(input("Enter a number:- "))
+# square = int(input("Enter a number:- "))
 
-result = square * square
+# result = square * square
 
-print(result)
+# print(result)
 
 
