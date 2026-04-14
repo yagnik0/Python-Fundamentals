@@ -5,9 +5,14 @@ name = "Bramharshi"
 
 # Slicing in strings 🚀
 
-nameshort = name[0:5]
+# nameshort = name[0:5]
+
+
+nameshort2 = name[4:7]
 
 # print(nameshort)
+
+# print(nameshort2)
 
 # Strings Functions 🚀
 

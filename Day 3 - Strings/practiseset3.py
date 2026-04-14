@@ -8,7 +8,7 @@
 # Q.2 :- Write a program to fill in a letter template given below with name and date.
 
 # name = "Bhootnath"
-# date= "27/2/2026"
+# date= "15/4/2026"
 
 # letter = '''
 # Dear name,
