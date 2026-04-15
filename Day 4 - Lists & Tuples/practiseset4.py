@@ -37,7 +37,7 @@ fruitsName = ["Mango", "Orange", "Grapes", "Apple", "Kiwi", "Papaya", "Banana"]
 
 # a = (1, 2, 3, 4, 5)
 
-# a[1] = 2
+# a[0] = 2
 
 # print(a)
 

@@ -1,6 +1,6 @@
 friends = ["Apple", "Orange", 34.78, 5, False, "Aakash", "Yash"]
 
-# print(friends[0])
+# print(friends[6])
 
 friends[0] = "Mango"
 
@@ -33,6 +33,12 @@ print(counts)
 
 index = a.index(5)
 print(index)
+
+
+# Tupele with only one element
+
+tup = (1,)    # we use comma to ddd only one element
+print(type(tup))
 
 
 
