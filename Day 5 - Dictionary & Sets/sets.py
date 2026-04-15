@@ -1,8 +1,8 @@
 s = {1,3,32}
 
-# Empty sets :- don't use s= {} as kt will create an empty dictionary use = set()
+# Empty sets :- don't use s= {} as it will create an empty dictionary use = set()
 
-e = set()
+empty = set()
 
 # In set values cannot be repeated
 

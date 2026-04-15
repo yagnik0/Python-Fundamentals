@@ -43,19 +43,19 @@ s.add('20')
 favLang = {}
 
 name = input("Enter your name:- ")
-lang = input("Enter yor languaahe name:- ")
+lang = input("Enter yor language name:- ")
 favLang.update({name:lang})
 
 name = input("Enter your name:- ")
-lang = input("Enter yor languaahe name:- ")
+lang = input("Enter yor language name:- ")
 favLang.update({name:lang})
 
 name = input("Enter your name:- ")
-lang = input("Enter yor languaahe name:- ")
+lang = input("Enter yor language name:- ")
 favLang.update({name:lang})
 
 name = input("Enter your name:- ")
-lang = input("Enter yor languaahe name:- ")
+lang = input("Enter yor language name:- ")
 favLang.update({name:lang})
 
 print(favLang)
