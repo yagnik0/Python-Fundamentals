@@ -3,11 +3,16 @@
 # for i in range(1,6):
   # print(i)
 
+# Printing numbers berween 1 to 10
+
+# for i in range(1,11):
+  # print(i)
+
 # There are two types of loops in python
 # 1:- while loop
 # 2:- for loop
 
-# while loop:- 🐍
+# while loops:- 🐍
 
 # i = 1
 
@@ -21,6 +26,14 @@
 # while(i<51):
 #   print(i)
 #   i+=1
+
+# Write a program to print 1 to 100 using a while loop
+
+# i = 1
+
+# while ( i < 101):
+#   print(i)
+#   i+= 1
 
 # Write a program to print the content of a list using while loops.
 
@@ -53,6 +66,11 @@ l = ["Yash", "Mahadev", "Krishna", "Bramharshi"]
 # for i in s:
 #   print(i)
 
+s2 = "Radha"
+
+for i in s2:
+  print(i)
+
 # for loop with else
 
 # l1  = [3, 5, 8]
@@ -80,10 +98,10 @@ l = ["Yash", "Mahadev", "Krishna", "Bramharshi"]
 # for loop with pass statement
 
 
-l2 = [34,78,90]
+# l2 = [34,78,90]
 
-for i in l2:
-  pass
+# for i in l2:
+#   pass
 
 
 
