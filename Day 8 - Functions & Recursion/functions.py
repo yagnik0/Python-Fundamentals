@@ -42,10 +42,10 @@ def goodDay(name, ending="Thank You"):
 # factorial(n) = n * factorial(n-1)
 
 
-def factorial(num):
-  if (num == 1 or num == 0):
-    return 1
-  return num * factorial(num-1)
+# def factorial(num):
+#   if (num == 1 or num == 0):
+#     return 1
+#   return num * factorial(num-1)
 
-num = int(input("Enter the number:- "))
-print(f"Factorial of {num} is {factorial(num)}")
+# num = int(input("Enter the number:- "))
+# print(f"Factorial of {num} is {factorial(num)}")
